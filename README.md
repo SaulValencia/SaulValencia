@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaulValencia
 - 👀 I’m interested in VR and mobiel devices development
 - 🌱 I’m currently learning VR development in Unreal 
-- 💞️ I’m looking to collaborate on non specific project
+- 💞️ I’m looking to collaborate on my first project
 - 📫 How to reach me (codingelectronics@gmail.com)
 
 <!---
